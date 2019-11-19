@@ -1,0 +1,12 @@
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\PROYECTO III\ProyectoIII(Puebas)\ProyectoIII(Puebas)\bin\Debug\ProyectoIII(Puebas).exe.config
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\PROYECTO III\ProyectoIII(Puebas)\ProyectoIII(Puebas)\bin\Debug\ProyectoIII(Puebas).exe
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\PROYECTO III\ProyectoIII(Puebas)\ProyectoIII(Puebas)\bin\Debug\ProyectoIII(Puebas).pdb
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\PROYECTO III\ProyectoIII(Puebas)\ProyectoIII(Puebas)\obj\Debug\ProyectoIII(Puebas).csprojAssemblyReference.cache
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\PROYECTO III\ProyectoIII(Puebas)\ProyectoIII(Puebas)\obj\Debug\ProyectoIII(Puebas).exe
+C:\Users\PARKER(L)\Documents\Practicas PE 2019\PROYECTO III\ProyectoIII(Puebas)\ProyectoIII(Puebas)\obj\Debug\ProyectoIII(Puebas).pdb
+C:\Users\Marco\Desktop\ProyectoIII-master\ProyectoIII(Puebas)\obj\Debug\ProyectoIII(Puebas).csprojAssemblyReference.cache
+C:\Users\Marco\Desktop\ProyectoIII-master\ProyectoIII(Puebas)\obj\Debug\ProyectoIII(Puebas).exe
+C:\Users\Marco\Desktop\ProyectoIII-master\ProyectoIII(Puebas)\obj\Debug\ProyectoIII(Puebas).pdb
+C:\Users\Marco\Desktop\ProyectoIII-master\ProyectoIII(Puebas)\bin\Debug\ProyectoIII(Puebas).exe.config
+C:\Users\Marco\Desktop\ProyectoIII-master\ProyectoIII(Puebas)\bin\Debug\ProyectoIII(Puebas).exe
+C:\Users\Marco\Desktop\ProyectoIII-master\ProyectoIII(Puebas)\bin\Debug\ProyectoIII(Puebas).pdb
